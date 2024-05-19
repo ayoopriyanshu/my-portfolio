@@ -262,6 +262,16 @@ img {
 .skills__text {
   margin-bottom: var(--mb-4);
 }
+.proj_desc {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+  padding: 0.5rem 1rem;
+  margin-bottom: var(--mb-4);
+  border-radius: 0.5rem;
+  box-shadow: 0px 4px 25px rgba(14, 36, 49, 0.15);
+}
 .skills__data {
   display: flex;
   justify-content: space-between;
